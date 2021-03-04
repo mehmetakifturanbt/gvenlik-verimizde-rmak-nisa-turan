@@ -1,0 +1,39 @@
+{
+    "name": "GÜVENLİK VERİMİZDE-Irmak Nisa TURAN",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "palette": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "animation": "*",
+        "storyboard": "*",
+        "radio-broadcast": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.3.44",
+        "tag": "v1.3.44",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/d1e057830c0eebc87e3e400f2106c8e1f0e5a077",
+        "target": "1.3.44",
+        "pxt": "6.8.33",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
